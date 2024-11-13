@@ -20,18 +20,22 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 ## Output:
 
-< Put sketch / Final image here >
+![alt text](IMG_3815-2.jpg)
+
+
+![alt text](<Screenshot 2024-11-11 6.27.22 PM.png>)
+
 
 ## Reflection
 
 1. Describe your project.
 
-   - Write your response here...
+   - My project replicates the Netherlands flag, as it represents the 3 identical colors and order the flag is. Using the colors red, white, and blue, the painter successfully paints a picture of the flag with a white border and light blue background. 
 
 2. What are two things about your project that you are proud of?
 
-   - Write your response here...
+   - One thing I'm proud of about this project is how identically it looks like the actualy Netherland flag. Additionally, although it was a little more work and time, working on the 32x32 grid was accomplishing and it provides more visual details.
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   - Write your response here...
+   - Something that I would have done differently was to use less code in order to get around the grid to a specific part. For example, as I programmed the white border, I kept passing vacant grids that I would get back to later, which instead I could've just programmed the lines in a pattern.
